@@ -1,0 +1,13 @@
+
+level3.png
+size: 8192, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1083
+  rotate: false
+  xy: 0, 0
+  size: 7000, 3115
+  orig: 7000, 3115
+  offset: 0, 0
+  index: -1

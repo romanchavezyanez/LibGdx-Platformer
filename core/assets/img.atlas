@@ -1,0 +1,41 @@
+
+img.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+2d
+  rotate: false
+  xy: 0, 47
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 1280, 744
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: 1
+revised
+  rotate: false
+  xy: 1280, 744
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+characterr
+  rotate: false
+  xy: 0, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+revised2
+  rotate: false
+  xy: 0, 24
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
